@@ -1,4 +1,4 @@
-# Comandos de consola Windows
+# Comandos Basicos en diferentes consolas
 
 [Windows]:https://elandroidefeliz.com/comandos-cmd-comandos-dos-listado/
 
