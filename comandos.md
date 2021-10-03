@@ -2,7 +2,7 @@
 
 [Windows]:https://elandroidefeliz.com/comandos-cmd-comandos-dos-listado/
 
-> ## **Comandos Terminal de Windows**
+> ## **[Comandos Terminal de Windows](https://elandroidefeliz.com/comandos-cmd-comandos-dos-listado/)**
 
 Descripción | Comando
 ----|-----
@@ -22,7 +22,7 @@ Mover carpetas con contenido| xcopy
 
 
 
->## **Comandos Terminal de Ubuntu** ##
+>## **[Comandos Terminal de Ubuntu](https://www.guia-ubuntu.com/index.php/Comandos)** ##
 
 Descripción | Comando
 ----|-----
@@ -46,7 +46,7 @@ Copia archivo en directorio manteniendo nombre y el original |cp archivo /direct
 
 
 
->## **Comandos PowerShell** ##
+>## **[Comandos PowerShell](https://marcosmarti.org/comandos-basicos-de-powershell/)** ##
 
 Descripción | Comando
 ----|-----
@@ -61,3 +61,6 @@ CopiarArxhivo/carpeta |	Copy-Item -Path C:\NombreDirextorio -Destination C:\Nomb
 
 
 ## **Referencias**
+ - Comandos teminal de Windows <https://elandroidefeliz.com/comandos-cmd-comandos-dos-listado/>
+ - Comandos terminal de Ubuntu <https://www.guia-ubuntu.com/index.php/Comandos>
+ - Comandos PowerShell <https://marcosmarti.org/comandos-basicos-de-powershell/>
