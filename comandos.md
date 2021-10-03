@@ -50,7 +50,7 @@ Copia archivo en directorio manteniendo nombre y el original |cp archivo /direct
 
 Descripción | Comando
 ----|-----
-Ver la ubicación el la que nos encontramos | Get-location
+Ver la ubicación el la que nos encontramos | get-location
 Moverse entre carpetas| cd/ruta
 salir de la carpeta | cd..
 ver contenido de la carpeta | Dir/ls
