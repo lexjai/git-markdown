@@ -60,7 +60,7 @@ Mover carpetas | Move-Item -Path C:\RutaDirectory -Destination C:\ -RutaNombreDi
 CopiarArxhivo/carpeta |	Copy-Item -Path C:\NombreDirextorio -Destination C:\NombreDirectorio
 
 
-## **Referencias**
- - Comandos teminal de Windows <https://elandroidefeliz.com/comandos-cmd-comandos-dos-listado/>
- - Comandos terminal de Ubuntu <https://www.guia-ubuntu.com/index.php/Comandos>
- - Comandos PowerShell <https://marcosmarti.org/comandos-basicos-de-powershell/>
+### **Referencias**
+ #### - Comandos teminal de Windows <https://elandroidefeliz.com/comandos-cmd-comandos-dos-listado/>
+ #### - Comandos terminal de Ubuntu <https://www.guia-ubuntu.com/index.php/Comandos>
+ #### - Comandos PowerShell <https://marcosmarti.org/comandos-basicos-de-powershell/>
