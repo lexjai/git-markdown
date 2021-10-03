@@ -1,7 +1,6 @@
 # GIT 
 [Git]: https://git-scm.com/
-[Git] es un sistema de control de versiones uno de los mas utilizados.
-
+[Git] es un sistema de control de versiones, es uno de los mas utilizados.
 [Git], que presenta una arquitectura distribuida, es un ejemplo de DVCS (sistema de control de versiones distribuido, por sus siglas en inglés), en [Git], la copia de trabajo del código de cada desarrollador es también un repositorio que puede albergar el historial completo de todos los cambios.
 
  Ademas de contar con una arquitectura distribuida, [Git] se ha diseñado teniendo en cuenta el rendimiento, la seguridad y la flexibilidad
@@ -111,24 +110,3 @@ git remote origin
 ## **Referencias:**
 - <https://git-scm.com/>
 - <https://www.hostinger.es/tutoriales/comandos-de-git>
-
-
-
-
-
-## [Git](https://github.com/lexjai/git-markdown)
-
-
-Comandos | Función
-----|-----
-git init| Crea un nuevo repositorio git 
-git add | 
-
-```
-git init
-git add 
-git commit -m
-git remote add origin ...
-git push -u origin 
-
-```
